@@ -34,7 +34,7 @@
     "@storybook/addons": "^5.2.8",
     "@storybook/react": "^5.2.8",
     "babel-loader": "^8.0.6",
-    "d3": "^5.14.2",
+    "d3": "^7.6.1",
     "lerna": "^3.16.4",
     "storybook": "^5.1.11",
     "webpack": "^4.32.2",
