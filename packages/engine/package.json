@@ -33,7 +33,7 @@
     "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "eslint": "^4.12.1",
     "event-pubsub": "^4.3.0",
     "istanbul": "^0.4.5",
